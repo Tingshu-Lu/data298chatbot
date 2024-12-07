@@ -1,0 +1,12 @@
+langchain
+langchain_community
+sentence_transformers
+modelscope
+torch
+datasets
+peft
+trl
+bitsandbytes
+accelerate
+transformers
+chromadb==0.5.3
